@@ -1,5 +1,5 @@
-import { material, project } from '@alilc/lowcode-engine';
-import { filterPackages } from '@alilc/lowcode-plugin-inject'
+import { material, project } from '@digiforce-cloud/dvd-engine';
+import { filterPackages } from '@digiforce-cloud/dvd-plugin-inject'
 import { Message, Dialog } from '@alifd/next';
 
 export const loadIncrementalAssets = () => {

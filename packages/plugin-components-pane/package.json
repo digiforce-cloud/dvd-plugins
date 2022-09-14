@@ -1,5 +1,5 @@
 {
-  "name": "@alilc/lowcode-plugin-components-pane",
+  "name": "@digiforce-cloud/dvd-plugin-components-pane",
   "version": "1.0.3",
   "description": "低代码组件面板",
   "files": [
@@ -53,7 +53,7 @@
     }
   },
   "dependencies": {
-    "@alilc/lowcode-types": "^1.0.0",
+    "@digiforce-cloud/dvd-types": "^1.0.0",
     "classnames": "^2.3.1",
     "lodash.debounce": "^4.0.8",
     "react": "^16.0.0"

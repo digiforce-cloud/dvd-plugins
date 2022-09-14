@@ -1,4 +1,4 @@
-import { RuntimeDataSourceConfig as DataSourceConfig } from '@alilc/lowcode-datasource-types';
+import { RuntimeDataSourceConfig as DataSourceConfig } from '@digiforce-cloud/dvd-datasource-types';
 
 import { DataSourceType } from './DataSourceType';
 

@@ -1,4 +1,4 @@
-import { ILowCodePluginContext } from '@alilc/lowcode-engine';
+import { ILowCodePluginContext } from '@digiforce-cloud/dvd-engine';
 import DataSourcePanePlugin from './pane';
 
 import {

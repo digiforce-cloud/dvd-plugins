@@ -1,4 +1,4 @@
-# @alilc/lowcode-plugin-zh-cn [![][npm-image]][npm-url]
+# @digiforce-cloud/dvd-plugin-zh-cn [![][npm-image]][npm-url]
 
 Switch between Simplified Chinese and English for Lowcode Engine.
 
@@ -8,8 +8,8 @@ Switch between Simplified Chinese and English for Lowcode Engine.
 
 ### 注册插件
 ```jsx
-import { plugins } from '@alilc/lowcode-engine';
-import PluginZhCn from '@alilc/lowcode-plugin-zh-cn';
+import { plugins } from '@digiforce-cloud/dvd-engine';
+import PluginZhCn from '@digiforce-cloud/dvd-plugin-zh-cn';
 
 // 注册到引擎
 plugins.register(PluginZhCn);

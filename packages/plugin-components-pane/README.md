@@ -1,4 +1,4 @@
-# @alilc/lowcode-plugin-components-pane
+# @digiforce-cloud/dvd-plugin-components-pane
 
 ## 注意
 

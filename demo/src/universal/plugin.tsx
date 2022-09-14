@@ -5,21 +5,21 @@ import {
   skeleton,
   project,
   setters,
-} from '@alilc/lowcode-engine';
+} from '@digiforce-cloud/dvd-engine';
 import { Button } from '@alifd/next';
-import UndoRedoPlugin from '@alilc/lowcode-plugin-undo-redo';
-import ComponentsPane from '@alilc/lowcode-plugin-components-pane';
-import ZhEnPlugin from '@alilc/lowcode-plugin-zh-en';
-import CodeGenPlugin from '@alilc/lowcode-plugin-code-generator';
+import UndoRedoPlugin from '@digiforce-cloud/dvd-plugin-undo-redo';
+import ComponentsPane from '@digiforce-cloud/dvd-plugin-components-pane';
+import ZhEnPlugin from '@digiforce-cloud/dvd-plugin-zh-en';
+import CodeGenPlugin from '@digiforce-cloud/dvd-plugin-code-generator';
 import DataSourcePanePlugin from '../../../packages/plugin-datasource-pane/src';
-import SchemaPlugin from '@alilc/lowcode-plugin-schema';
-import CodeEditor from "@alilc/lowcode-plugin-code-editor";
-import ManualPlugin from "@alilc/lowcode-plugin-manual";
-import Inject, { injectAssets } from '@alilc/lowcode-plugin-inject';
-import SimulatorResizer from '@alilc/lowcode-plugin-simulator-select';
+import SchemaPlugin from '@digiforce-cloud/dvd-plugin-schema';
+import CodeEditor from "@digiforce-cloud/dvd-plugin-code-editor";
+import ManualPlugin from "@digiforce-cloud/dvd-plugin-manual";
+import Inject, { injectAssets } from '@digiforce-cloud/dvd-plugin-inject';
+import SimulatorResizer from '@digiforce-cloud/dvd-plugin-simulator-select';
 
 // 注册到引擎
-import TitleSetter from '@alilc/lowcode-setter-title';
+import TitleSetter from '@digiforce-cloud/dvd-setter-title';
 import BehaviorSetter from '../setters/behavior-setter';
 import CustomSetter from '../setters/custom-setter';
 import Logo from '../sample-plugins/logo';
@@ -52,7 +52,7 @@ export default async function registerPlugins() {
         // 修改面包屑组件的分隔符属性setter
         // const assets = await (
         //   await fetch(
-        //     `https://alifd.alicdn.com/npm/@alilc/lowcode-materials/build/lowcode/assets-prod.json`
+        //     `https://alifd.alicdn.com/npm/@digiforce-cloud/dvd-materials/build/lowcode/assets-prod.json`
         //   )
         // ).json();
         // 设置物料描述

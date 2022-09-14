@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
-import { ILowCodePluginContext, project } from '@alilc/lowcode-engine';
+import { ILowCodePluginContext, project } from '@digiforce-cloud/dvd-engine';
 import { Button, Icon } from '@alifd/next';
-import { PluginProps } from '@alilc/lowcode-types';
+import { PluginProps } from '@digiforce-cloud/dvd-types';
 
 import './index.scss';
 

@@ -4,12 +4,12 @@ import { Dialog, Message } from '@alifd/next';
 import { JsEditor, CssEditor } from '../components';
 import { schema2JsCode, schema2CssCode } from '../utils';
 import { WORDS, TAB_KEY } from '../config';
-import { common } from '@alilc/lowcode-engine';
+import { common } from '@digiforce-cloud/dvd-engine';
 
 import { FunctionEventParams } from '../types';
-import { Project, Event, Skeleton } from '@alilc/lowcode-shell';
+import { Project, Event, Skeleton } from '@digiforce-cloud/dvd-shell';
 
-import '@alilc/lowcode-plugin-base-monaco-editor/lib/style';
+import '@digiforce-cloud/dvd-plugin-base-monaco-editor/lib/style';
 import './index.less';
 import { SaveIcon } from '../components/SaveIcon';
 

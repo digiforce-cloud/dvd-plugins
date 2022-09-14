@@ -1,4 +1,4 @@
-# lowcode-plugin-@alilc/lowcode-plugin-schema [![][npm-image]][npm-url]
+# lowcode-plugin-@digiforce-cloud/dvd-plugin-schema [![][npm-image]][npm-url]
 
 show lowcode schema diff
 
@@ -8,8 +8,8 @@ show lowcode schema diff
 
 ### 注册插件
 ```jsx
-import { plugins } from '@alilc/lowcode-engine';
-import LowcodePluginAliLowcodePluginSchema from '@alilc/lowcode-plugin-schema';
+import { plugins } from '@digiforce-cloud/dvd-engine';
+import LowcodePluginAliLowcodePluginSchema from '@digiforce-cloud/dvd-plugin-schema';
 
 // 注册到引擎
 plugins.register(LowcodePluginAliLowcodePluginSchema);

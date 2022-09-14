@@ -1,5 +1,5 @@
 import * as React from 'react';
-import BehaviorSetter from '@alilc/lowcode-setter-behavior';
+import BehaviorSetter from '@digiforce-cloud/dvd-setter-behavior';
 
 
 const defaultExtraBehaviorActions: any[] = [];

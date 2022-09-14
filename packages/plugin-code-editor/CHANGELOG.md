@@ -47,7 +47,7 @@ Can't import the named export 'presortedDecodedMap' from non EcmaScript module (
 
 ## 0.5.1-beta.7
 
-- 升级到 `@alilc/lowcode-plugin-base-monaco-editor` 0.1.0-beta.13
+- 升级到 `@digiforce-cloud/dvd-plugin-base-monaco-editor` 0.1.0-beta.13
 
 ## 0.5.1-beta.6
 
@@ -130,7 +130,7 @@ Can't import the named export 'presortedDecodedMap' from non EcmaScript module (
 
 ## 0.5.0-beta.0
 
-- 内部依赖的 @alilc/lowcode-plugin-base-monaco-editor 升级到 0.1.0-beta.2，已支持 `?.` 等形态的语法
+- 内部依赖的 @digiforce-cloud/dvd-plugin-base-monaco-editor 升级到 0.1.0-beta.2，已支持 `?.` 等形态的语法
 
 ## 0.4.2-beta.2
 

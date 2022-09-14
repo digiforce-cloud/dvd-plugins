@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.scss';
-import { PluginProps } from '@alilc/lowcode-types';
+import { PluginProps } from '@digiforce-cloud/dvd-types';
 
 export interface IProps {
   logo?: string;

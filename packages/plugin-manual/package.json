@@ -1,5 +1,5 @@
 {
-  "name": "@alilc/lowcode-plugin-manual",
+  "name": "@digiforce-cloud/dvd-plugin-manual",
   "author": "humphry.huang9@gmail.com",
   "version": "1.0.3",
   "description": "低代码产品使用手册",
@@ -22,7 +22,7 @@
     "react": "^16.0.0"
   },
   "devDependencies": {
-    "@alilc/lowcode-engine": "^1.0.0",
+    "@digiforce-cloud/dvd-engine": "^1.0.14",
     "@alib/build-scripts": "^0.1.32",
     "@alifd/theme-lowcode-light": "^0.2.1",
     "@recore/config": "^2.0.6",

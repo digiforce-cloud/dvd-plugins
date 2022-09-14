@@ -1,5 +1,5 @@
 {
-  "name": "@alilc/lowcode-plugin-datasource-pane",
+  "name": "@digiforce-cloud/dvd-plugin-datasource-pane",
   "version": "1.0.6",
   "description": "低代码引擎数据源面板",
   "main": "lib/index.js",
@@ -27,9 +27,9 @@
     "@alib/build-scripts": "^0.1.32",
     "@alifd/theme-lowcode-light": "^0.2.1",
     "@alilc/build-plugin-alt": "^1.0.0",
-    "@alilc/lowcode-engine": "beta",
-    "@alilc/lowcode-shell": "^1.0.0",
-    "@alilc/lowcode-types": "beta",
+    "@digiforce-cloud/dvd-engine": "^1.0.14",
+    "@digiforce-cloud/dvd-shell": "^1.0.0",
+    "@digiforce-cloud/dvd-types": "beta",
     "@types/babel-types": "^7.0.9",
     "@types/babel__preset-env": "^7.9.2",
     "@types/react": "^16.9.13",
@@ -57,8 +57,8 @@
     "js-beautify": "^1.14.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
-    "@alilc/lowcode-plugin-base-monaco-editor": "^1.0.0",
-    "@alilc/lowcode-types": "^1.0.0-beta.3",
+    "@digiforce-cloud/dvd-plugin-base-monaco-editor": "^1.0.0",
+    "@digiforce-cloud/dvd-types": "^1.0.0-beta.3",
     "@formily/core": "^2.1.12",
     "@formily/next": "^2.1.12",
     "@formily/react": "^2.1.12",
@@ -74,5 +74,5 @@
     "traverse": "^0.6.6",
     "xstate": "^4.26.0"
   },
-  "homepage": "https://unpkg.com/@alilc/lowcode-plugin-datasource-pane@1.0.6/build/index.html"
+  "homepage": "https://unpkg.com/@digiforce-cloud/dvd-plugin-datasource-pane@1.0.6/build/index.html"
 }

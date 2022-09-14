@@ -1,5 +1,5 @@
 {
-  "name": "@alilc/lowcode-plugin-block",
+  "name": "@digiforce-cloud/dvd-plugin-block",
   "version": "1.0.0-beta.0",
   "description": "",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "@alifd/next": "^1.25.31",
-    "@alilc/lowcode-engine": "^1.0.5",
+    "@digiforce-cloud/dvd-engine": "^1.0.5",
     "html2canvas": "^1.4.1",
     "react": "^16.8.1"
   },
@@ -22,5 +22,8 @@
     "build-plugin-fusion": "^0.1.22",
     "build-plugin-moment-locales": "^0.1.3"
   },
-  "homepage": "https://unpkg.com/@alilc/lowcode-plugin-block@1.0.0-beta.0/build/index.html"
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://unpkg.com/@digiforce-cloud/dvd-plugin-block@1.0.0-beta.0/build/index.html"
 }

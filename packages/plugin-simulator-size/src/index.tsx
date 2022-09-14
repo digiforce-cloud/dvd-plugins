@@ -1,6 +1,6 @@
 import React from 'react';
 import { NumberPicker, Icon } from '@alifd/next';
-import { ILowCodePluginContext, project, material } from '@alilc/lowcode-engine';
+import { ILowCodePluginContext, project, material } from '@digiforce-cloud/dvd-engine';
 
 import './index.scss';
 

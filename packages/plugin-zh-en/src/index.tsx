@@ -1,6 +1,6 @@
 import { PureComponent } from 'react';
-import { ILowCodePluginContext, common } from '@alilc/lowcode-engine';
-import { PluginProps } from '@alilc/lowcode-types';
+import { ILowCodePluginContext, common } from '@digiforce-cloud/dvd-engine';
+import { PluginProps } from '@digiforce-cloud/dvd-types';
 import { intl } from './locale';
 import { IconZh } from './icons/zh';
 import { IconEn } from './icons/en';

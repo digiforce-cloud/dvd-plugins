@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { ILowCodePluginContext } from '@alilc/lowcode-engine';
+import { ILowCodePluginContext } from '@digiforce-cloud/dvd-engine';
 import { default as BlockPane } from './pane';
 
 const LowcodePluginCusPlugin = (ctx: ILowCodePluginContext) => {

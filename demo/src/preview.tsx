@@ -1,9 +1,9 @@
 import ReactDOM from 'react-dom';
 import React, { useState } from 'react';
 import { Loading } from '@alifd/next';
-import { buildComponents, assetBundle, AssetLevel, AssetLoader } from '@alilc/lowcode-utils';
-import ReactRenderer from '@alilc/lowcode-react-renderer';
-import { injectComponents } from '@alilc/lowcode-plugin-inject';
+import { buildComponents, assetBundle, AssetLevel, AssetLoader } from '@digiforce-cloud/dvd-utils';
+import ReactRenderer from '@digiforce-cloud/dvd-react-renderer';
+import { injectComponents } from '@digiforce-cloud/dvd-plugin-inject';
 
 const SamplePreview = () => {
   const [data, setData] = useState({});

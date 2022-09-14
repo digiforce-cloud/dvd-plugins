@@ -39,8 +39,8 @@ function setupConfig() {
 # 使用方式
 
 ```
-import { material } from '@alilc/lowcode-engine';
-import { default as saveAsBlock } from '@alilc/action-block';
+import { material } from '@digiforce-cloud/dvd-engine';
+import { default as saveAsBlock } from '@digiforce-cloud/dvd-plugin-action-block';
 
 material.addBuiltinComponentAction(saveAsBlock);
 ```

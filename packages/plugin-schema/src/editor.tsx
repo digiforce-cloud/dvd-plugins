@@ -1,12 +1,12 @@
 import * as React from 'react';
 import { useState, useRef, useCallback, useEffect } from 'react';
-import MonacoEditor from '@alilc/lowcode-plugin-base-monaco-editor';
+import MonacoEditor from '@digiforce-cloud/dvd-plugin-base-monaco-editor';
 
 import { Dialog, Message, Button } from '@alifd/next';
 
-import { common } from '@alilc/lowcode-engine'
-import { Project, Skeleton, Event } from '@alilc/lowcode-shell';
-import { IEditorInstance } from '@alilc/lowcode-plugin-base-monaco-editor/lib/helper';
+import { common } from '@digiforce-cloud/dvd-engine'
+import { Project, Skeleton, Event } from '@digiforce-cloud/dvd-shell';
+import { IEditorInstance } from '@digiforce-cloud/dvd-plugin-base-monaco-editor/lib/helper';
 
 interface PluginCodeDiffProps {
   project: Project;

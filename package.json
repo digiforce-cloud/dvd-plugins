@@ -18,7 +18,7 @@
     "setup:test": "./scripts/setup-for-test.sh",
     "setup:skip-build": "./scripts/setup-skip-build.sh",
     "start": "./scripts/start.sh",
-    "start:demo": "./scripts/start.sh @alilc/lowcode-demo",
+    "start:demo": "./scripts/start.sh @digiforce-cloud/dvd-demo",
     "test": "lerna run test --stream",
     "test:snapshot": "lerna run test:snapshot",
     "watchdog:build": "node ./scripts/watchdog.js",

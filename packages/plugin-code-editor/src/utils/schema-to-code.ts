@@ -1,6 +1,6 @@
 
 import { js_beautify, css_beautify } from 'js-beautify';
-import { isJSExpression, ProjectSchema, RootSchema, JSFunction, JSExpression } from '@alilc/lowcode-types';
+import { isJSExpression, ProjectSchema, RootSchema, JSFunction, JSExpression } from '@digiforce-cloud/dvd-types';
 import { Dialog } from '@alifd/next';
 import { IState } from '../types';
 import { defaultStateCode, WORDS } from '../config';

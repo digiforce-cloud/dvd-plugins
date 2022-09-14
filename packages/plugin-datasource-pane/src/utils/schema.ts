@@ -2,8 +2,8 @@ import _isArray from 'lodash/isArray';
 import _isPlainObject from 'lodash/isPlainObject';
 import {
   InterpretDataSourceConfig,
-} from '@alilc/lowcode-datasource-types';
-import { isJSFunction } from '@alilc/lowcode-types';
+} from '@digiforce-cloud/dvd-datasource-types';
+import { isJSFunction } from '@digiforce-cloud/dvd-types';
 
 export const DATASOURCE_HANDLER_NAME_LIST = [
   'dataHandler',

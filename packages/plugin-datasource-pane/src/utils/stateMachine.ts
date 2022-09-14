@@ -1,5 +1,5 @@
 import { createMachine, interpret, assign } from 'xstate';
-import { RuntimeDataSourceConfig as DataSourceConfig } from '@alilc/lowcode-datasource-types';
+import { RuntimeDataSourceConfig as DataSourceConfig } from '@digiforce-cloud/dvd-datasource-types';
 import _uniqueId from 'lodash/uniqueId';
 import { DataSourceType } from '../types';
 

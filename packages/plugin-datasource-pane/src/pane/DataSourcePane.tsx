@@ -6,7 +6,7 @@ import cn from 'classnames';
 import {
   RuntimeDataSource as DataSource,
   RuntimeDataSourceConfig as DataSourceConfig,
-} from '@alilc/lowcode-datasource-types';
+} from '@digiforce-cloud/dvd-datasource-types';
 import { Button, Message, Dialog } from '@alifd/next';
 import _isArray from 'lodash/isArray';
 import { HTML5Backend } from 'react-dnd-html5-backend';

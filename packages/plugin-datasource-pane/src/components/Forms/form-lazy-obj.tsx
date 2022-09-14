@@ -12,7 +12,7 @@ import _pick from 'lodash/pick';
 import { JSFunction } from './jsFunction';
 import { RemoveBtn } from './form-lazy-obj-remove-btn';
 import { generateClassName } from '../../utils/misc';
-import { isJSFunction } from '@alilc/lowcode-types';
+import { isJSFunction } from '@digiforce-cloud/dvd-types';
 
 const { Item: MenuButtonItem } = MenuButton;
 

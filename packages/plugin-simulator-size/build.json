@@ -5,7 +5,7 @@
     "react-dom": "ReactDOM",
     "prop-types": "PropTypes",
     "@alifd/next": "Next",
-    "@alilc/lowcode-engine": "AliLowCodeEngine"
+    "@digiforce-cloud/dvd-engine": "AliLowCodeEngine"
   },
   "plugins": [
     [

@@ -1,5 +1,5 @@
 import { CodeEditorPane } from './pane';
-import { project, ILowCodePluginContext } from '@alilc/lowcode-engine';
+import { project, ILowCodePluginContext } from '@digiforce-cloud/dvd-engine';
 import icon from './icon';
 
 const plugin = (ctx: ILowCodePluginContext) => {
